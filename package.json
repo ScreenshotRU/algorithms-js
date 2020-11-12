@@ -1,0 +1,7 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
